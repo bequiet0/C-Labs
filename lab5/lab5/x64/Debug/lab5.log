@@ -1,0 +1,4 @@
+﻿E:\VSC\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab5_1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source0.cpp
+E:\Oxford\C++ ОАиП\C-Labs\lab5\lab5\Source0.cpp(10,12): warning C4101: x: неиспользованная локальная переменная
+  lab5.vcxproj -> E:\Oxford\C++ ОАиП\C-Labs\lab5\x64\Debug\lab5_0.exe
