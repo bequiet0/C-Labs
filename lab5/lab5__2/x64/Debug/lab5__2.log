@@ -1,2 +1,4 @@
 ﻿  Source2.cpp
-  lab5__2.vcxproj -> E:\Oxford\C++ ОАиП\C-Labs\lab5\x64\Debug\lab5_2.exe
+E:\Oxford\C++ ОАиП\C-Labs\Lab5\lab5__2\Source2.cpp(22,9): warning C4244: инициализация: преобразование "long double" в "int", возможна потеря данных
+E:\Oxford\C++ ОАиП\C-Labs\Lab5\lab5__2\Source2.cpp(39,10): warning C4129: S: неизвестная escape-последовательность
+  lab5__2.vcxproj -> E:\Oxford\C++ ОАиП\C-Labs\Lab5\x64\Debug\lab5_2.exe
