@@ -23,7 +23,6 @@ int main()
         cout << B[i] << "\r\n";
     }
 
-    cout << "\r\nPress Enter To Exit...";
-    getchar();
+    
     return 0;
 }
